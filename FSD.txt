@@ -1,0 +1,65 @@
+<html>
+  <head>
+  <h1 style="text-allign: centre;",MY BEST FRIEND.</h1>
+    <title>
+      ABOUT MY BEST FRIEND.
+    </title>
+  </head>
+  <body style="background-color: orange;">
+    
+    <p> This page is made by MOUNIKA.</p>
+    <centre>
+      <img
+    src=https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgirl-friendship&psig=AOvVaw1P9Rw8jQujILXlVK8l7qFr&ust=1687360303586000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiT7I-R0v8CFQAAAAAdAAAAABAE align=centre alt="Friends forever" width="300" height="300">
+    </centre>
+    <centre>
+<h3 class="border-daily routine">My friend daily routine      in order:
+      </h3></centre>
+    <div align="centre">
+      <ol>
+        <li>Wake up</li>
+        <li>Brush</li>
+        <li>Exercise</li>
+        <li>Fresh up</li>
+        <li>Break fast</li>
+        <li>College</li>
+        <li>Lunch</li>
+        <li>Spending time with family</li>
+        <li>Dinner</li>
+        <li>Sleep</li>
+      </ol>
+    </div>
+    <h3 style="color : blue;"> Friend's Info</h3>
+    <table>
+      <table cellspacing=<10px">
+      <table border="10px">
+        <thead>
+          <tr>
+            <th>NAME</th>
+            <th>BIRTHDAY</th>
+            <th>ZODIAC SIGN</th>
+            <th>LOVE TO EAT</th>
+            <TH>FAV MOVIE</TH>
+            <th>HOBBY</th>
+            <th>PET PHOTO</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>HEIDI</td>
+            <td>JUNE 1st</td>
+            <td>TAURUS</td>
+            <td>NOODLES</td>
+            <td>TOM AND JERRY</td>
+            <td>COOKING</td>
+            <td><img
+src=https://encrypted-tbn0.gstatic.com/images q=tbn:ANd9GcSms10eHOvxFhCeMvFRTHebTKE9eI9DRKS1Og&usqp=CAU alt="Bailey" width="200" height"200"></td>
+              </tr>
+            </tbody>
+          </table>
+        </body>
+      </html>
+    
+            
+      
+           
